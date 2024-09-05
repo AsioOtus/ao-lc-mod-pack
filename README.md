@@ -1,7 +1,7 @@
 # Установка
 
 1. Скачать и распаковать архив из последнего [релиза](https://github.com/AsioOtus/lc-mod-set/releases).
-2. Открыть `Steam > Lethal Company > Настройки (иконка шестеренки справа) > Просмотр локальных файлов (Browse local files)`
+2. Открыть `Steam > Lethal Company > Настройки (иконка шестеренки справа) > Просмотр локальных файлов (Browse local files)`.
     В открывшейся папке должен быть файл :page_facing_up: `Lethal Company.exe`
 3. Если в папке с игрой есть, удалить папки:
     - :file_folder: `BepInEx`
