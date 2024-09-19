@@ -12,6 +12,6 @@
     - :file_folder: `BoomboxController`
     - :page_facing_up: `winhttp.dll`
     - :page_facing_up: `doorstop_config.ini`
-    - другие файлы и папки игры, не связанные с модами
+    - другие файлы и папки от игры, не связанные с модами
 
 > Если компуктер не тянет, удалить файл `BepInEx/plugins/HDLethalCompany.dll`.
